@@ -3851,6 +3851,7 @@ figcaption {
     height: 100%;
     max-width: none;
     transform-origin: 65%;
+    object-fit:cover;
     object-position: right;
     border-radius: 1.1rem;
     transform: scale(.8);
