@@ -3851,8 +3851,9 @@ figcaption {
     height: 100%;
     max-width: none;
     transform-origin: 65%;
-    object-fit:cover;
-    object-position: right;
+    background-image: url(img/01.png);
+    background-size: cover;
+    background-position: right;
     border-radius: 1.1rem;
     transform: scale(.8);
 }
@@ -8438,7 +8439,10 @@ figcaption {
     }
 
     .home-hero_img {
-        width: 100%;
+    width: 100%;
+    background-image: url(img/mobile_01.png);
+    background-size: cover;
+    background-position: center;
     }
 
     .home-hero_h1 {
