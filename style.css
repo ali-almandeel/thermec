@@ -3711,6 +3711,8 @@ figcaption {
     align-items: flex-start;
     display: flex;
     position: relative;
+    margin-top: 100px;
+
 }
 
 .rl-styleguide_color-sample-list {
